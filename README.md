@@ -1,10 +1,8 @@
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/amamenko/owen-wilson-wow-api">
+  <a href="https://github.com/">
     <img src="./client/src/assets/images/Keanu.png" width="150" />
   </a>
 
@@ -154,47 +152,3 @@ Retrieve all names of movies in which Keanu Reeves says "whoa" - [https://whoa.o
 ## All Directors
 
 Retrieve all directors of movies in which Keanu Reeves says "whoa" - [https://whoa.onrender.com/whoas/directors](https://whoa.onrender.com/whoas/directors)
-
-<!-- LICENSE -->
-
-# License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<!-- CONTACT -->
-
-# Contact
-
-Keanu Reeves Whoa API - keanureeveswhoaapi@gmail.com
-
-Avraham (Avi) Mamenko - avimamenko@gmail.com
-
-API Link: [https://whoa.onrender.com/](https://whoa.onrender.com/)
-
-API Documentation: [https://whoa.readme.io](https://whoa.readme.io)
-
-# Disclaimer
-
-The Keanu Reeves Whoa API is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Keanu Reeves, or any of his subsidiaries or affiliates. All motion pictures, products, and brands mentioned on this website are the respective trademarks and copyrights of their owners.
-
-<!-- ACKNOWLEDGEMENTS -->
-
-# Acknowledgements
-
-- [Keanu Reeves](https://en.wikipedia.org/wiki/Keanu_Reeves)
-- [Owenergy YouTube Channel](https://www.youtube.com/watch?v=Odo5hwu9-wM)
-- [Screenrant.com](https://screenrant.com/keanu-reeves-whoa-movies/)
-- [TMDB](https://www.themoviedb.org/)
-- [Contentful](https://www.contentful.com/)
-- Homepage design inspired by [chucknorris.io](https://api.chucknorris.io/)
-- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-- [ReadMe](https://readme.com)
-- [@timiscoding](https://github.com/timiscoding) for original digital rain code
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/amamenko/keanu-reeves-whoa-api/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/avrahammamenko
